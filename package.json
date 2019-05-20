@@ -1,0 +1,15 @@
+{
+  "name": "hyper-theme-tech-chan",
+  "version": "0.0.1",
+  "description": "Tech-chan theme for Hyper terminal",
+  "author": {
+    "name": "unipota",
+    "email": "unipota@outlook.jp",
+    "url": "https://unipota.me"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "color": "^3.1.1"
+  }
+}
